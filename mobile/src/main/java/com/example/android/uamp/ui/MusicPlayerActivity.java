@@ -38,7 +38,7 @@ public class MusicPlayerActivity extends BaseActivity
     private static final String TAG = LogHelper.makeLogTag(MusicPlayerActivity.class);
     private static final String SAVED_MEDIA_ID="com.example.android.uamp.MEDIA_ID";
     private static final String FRAGMENT_TAG = "uamp_list_container";
-    //add test1
+
     public static final String EXTRA_START_FULLSCREEN =
             "com.example.android.uamp.EXTRA_START_FULLSCREEN";
 
